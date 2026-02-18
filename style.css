@@ -20,7 +20,6 @@ body { background: #1a202c; color: white; font-family: 'Courier New', monospace;
     overflow: hidden;
 }
 
-/* The Bug Appearance */
 .hole.active::after {
     content: '🪲';
     font-size: 5rem;
